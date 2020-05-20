@@ -55,7 +55,7 @@ Due to the built-in permissions of the Graph API, this module will only work for
 This module works as an interactive terminal to the user's OneDrive. To traverse to a folder or download a file, simply choose the corresponding number. 
 
 ### 5. Create Inbox Rules
-This module will create a mail rule for the user's Outlook inbox. The rule can be modified within the '*apiCreateInboxRule.py*' module. Please see the official Microsoft [documentation](https://docs.microsoft.com/en-us/graph/api/mailfolder-post-messagerules?view=graph-rest-1.0&tabs=http) on how to create these rules.
+This module will create a mail rule for the user's Outlook inbox. The rule can be modified within the '*apiCreateInboxRule.py*' module. Current config looks for "password" and "reset" in an email. Please see the official Microsoft [documentation](https://docs.microsoft.com/en-us/graph/api/mailfolder-post-messagerules?view=graph-rest-1.0&tabs=http) on how to create these rules.
 
 ### 6. List/Delete Inbox Rules
 This module will list any current inbox rules for the user. If any exist, it will give you the option to delete them. This is a good way to remove your created rule in the previous module after it is no longer needed. (I need to work on making the output prettier).
