@@ -12,9 +12,9 @@ Do not use this tool for unauthorized malicious purposes.
 
 For other great resources on this type of attack and tools, be sure to check out the following research from FireEye and MDSec which sparked this:
 
--[FireEye's PwnAuth](https://www.fireeye.com/blog/threat-research/2018/05/shining-a-light-on-oauth-abuse-with-pwnauth.html)
++ [FireEye's PwnAuth](https://www.fireeye.com/blog/threat-research/2018/05/shining-a-light-on-oauth-abuse-with-pwnauth.html)
 
--[MDSec's Office 365 Attack Toolkit](https://www.mdsec.co.uk/2019/07/introducing-the-office-365-attack-toolkit/)
++ [MDSec's Office 365 Attack Toolkit](https://www.mdsec.co.uk/2019/07/introducing-the-office-365-attack-toolkit/)
 
 
 # Setup
