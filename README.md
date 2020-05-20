@@ -67,6 +67,7 @@ By default, the user's access token is only valid for one hour. This module uses
 1. Make some outputs prettier
 2. Add additional error handing as necessary
 3. Make code more efficient
-4. Add more modules
+4. Change user-agent. Currently in Azure logs, shows as "Python-urllib"
+5. Add more modules
 
 Constructive feedback always welcome.
