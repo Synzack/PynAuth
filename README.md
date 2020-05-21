@@ -2,7 +2,7 @@
 
 PynAuth is a python-based proof of concept framework for performing OAuth token stealing campaigns against Office365 accounts with the Microsoft Graph API. The tool is built on top of the Microsoft Quick Start Python [code](https://developer.microsoft.com/en-us/graph/get-started/python).
 
-The tool is a play on the naming of FireEye's ["PwnAuth"](https://github.com/fireeye/PwnAuth), which is a web application framework for launching the same types of campaigns. 
+"PynAuth" is a play on the naming of FireEye's ["PwnAuth"](https://github.com/fireeye/PwnAuth), which is a web application framework for launching the same types of campaigns. 
 
 I developed this framework as I wanted a quick-start, python-based, modular way to perform these attacks with little over-head. I am also old-school and like terminal based tools. This project is very much in beta and I am sure there are bugs or more efficient ways to code the functionality. (Still working on those python skills :D).
 
