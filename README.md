@@ -16,7 +16,6 @@ For other great resources on this type of attack and tools, be sure to check out
 
 + [MDSec's Office 365 Attack Toolkit](https://www.mdsec.co.uk/2019/07/introducing-the-office-365-attack-toolkit/)
 
-
 # Setup
 
 1. Create an application within the [Azure Portal.](https://portal.azure.com)
@@ -28,6 +27,11 @@ For other great resources on this type of attack and tools, be sure to check out
 + Scope (Permissions)
 
 3. Modify the '*login.html*' and '*index.html*' page within the '*templates*' folder to your liking. Currently, they are basically just the Microsoft Quick Start defaults
+
+4. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
 
 (Blog coming soon which will go more in depth on this setup)
 
